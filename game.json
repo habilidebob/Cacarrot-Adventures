@@ -292,10 +292,10 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior",
           "canBeGrabbed": true,
+          "name": "Platform",
           "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
           "yGrabOffset": 0
         }
       ]
@@ -329,7 +329,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.2650000000000001
+        "zoomFactor": 0.4900000000000003
       },
       "objectsGroups": [],
       "variables": [],
@@ -343,8 +343,8 @@
           "name": "ChaoGrade",
           "persistentUuid": "09af314d-7e6b-4180-9370-1f61c5587b2c",
           "width": 798,
-          "x": 2388,
-          "y": 409,
+          "x": 2186,
+          "y": 361,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -375,8 +375,8 @@
           "name": "PlataformaFlutuante",
           "persistentUuid": "6e0b5680-e5dc-4e06-87eb-b4ba2e3cd73f",
           "width": 0,
-          "x": 3359,
-          "y": 261,
+          "x": 3139,
+          "y": 255,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -616,20 +616,20 @@
           "effects": [],
           "behaviors": [
             {
-              "jumpSpeed": 900,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
+              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -1141,12 +1141,7 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
-        }
-      ]
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
