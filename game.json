@@ -341,80 +341,6 @@
           "layer": "",
           "locked": false,
           "name": "ChaoGrade",
-          "persistentUuid": "7b814d91-cffe-4cf0-9126-62f534a8669f",
-          "width": 2077,
-          "x": -47,
-          "y": 598,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ItensCena",
-          "persistentUuid": "65fa5e4b-35f6-42c0-82c4-70c2f8ec1cb3",
-          "width": 0,
-          "x": 638,
-          "y": 362,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ItensCena",
-          "persistentUuid": "9c6e6434-32cc-48b6-b0b3-2efd3c2d4c1a",
-          "width": 0,
-          "x": 1826,
-          "y": 511,
-          "zOrder": 5,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "ItensCena",
-          "persistentUuid": "e1ff18c4-4ae1-4aa3-bd69-328c15fcc468",
-          "width": 0,
-          "x": 1282,
-          "y": 551,
-          "zOrder": 9,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 4
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "ChaoGrade",
           "persistentUuid": "09af314d-7e6b-4180-9370-1f61c5587b2c",
           "width": 798,
           "x": 2388,
@@ -446,49 +372,12 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "ItensCena",
-          "persistentUuid": "9c3ebdb9-b6d7-4efe-8f12-d7f86bc6912c",
-          "width": 0,
-          "x": 1266,
-          "y": 523,
-          "zOrder": 8,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "PlataformaFlutuante",
           "persistentUuid": "6e0b5680-e5dc-4e06-87eb-b4ba2e3cd73f",
           "width": 0,
           "x": 3359,
           "y": 261,
           "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 1143,
-          "layer": "",
-          "locked": false,
-          "name": "FundoCena",
-          "persistentUuid": "2b4e380d-25a7-4454-b6cb-1e2e0db240a4",
-          "width": 2190,
-          "x": -267,
-          "y": -275,
-          "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
